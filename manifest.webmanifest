@@ -1,0 +1,20 @@
+{
+    "name": "BoCA Test",
+    "short_name": "BoCA",
+    "start_url": "/BoCA/currenttest.html",
+    "display": "standalone",
+    "background_color": "#ECEBF6",
+    "theme_color": "#3367D6",
+    "orientation": "landscape",
+   "icons": [
+        {
+            "src": "/aI-interface(survey.html)/boca.alz.life/resources/img/icon.png",
+            "type": "image/png",
+            "sizes": "800x800"
+
+        }
+
+
+    ]
+
+}
